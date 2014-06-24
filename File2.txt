@@ -1,2 +1,6 @@
 Hello
+<<<<<<< HEAD
 File 2 ok
+=======
+File 2 ở đây
+>>>>>>> origin/master
